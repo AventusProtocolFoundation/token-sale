@@ -1,0 +1,4 @@
+/.dapple
+/build
+**/chain_db/
+*.out
